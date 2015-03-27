@@ -1,7 +1,8 @@
 # apple-remote-panasonic-tv
 
-Use an Apple remote (https://support.apple.com/en-bh/HT200131) on a Panasonic Viera TV.
+> Purpose
 
+Use an Apple remote (https://support.apple.com/en-bh/HT200131) on a Panasonic Viera TV.
 
 > Mockup
 
